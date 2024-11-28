@@ -1,0 +1,8 @@
+organism: Streptomyces albidoflavus strain 
+contigs: 1296
+bases: 7055776
+CDS: 6266
+CRISPR: 2
+rRNA: 4
+tRNA: 76
+tmRNA: 1
